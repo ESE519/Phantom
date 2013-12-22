@@ -17,3 +17,7 @@ File List
 Project Blog
 -----------------------------------
   https://sites.google.com/site/phantomupenn2013/home
+
+Demo Video
+-----------------------------------
+  https://www.youtube.com/watch?v=bnSDAKjZlDg
